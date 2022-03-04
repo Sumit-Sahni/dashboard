@@ -20,7 +20,7 @@ const Main  = styled.div`
   width:auto;
   height:80vh;
 
-  @media (max-width: 968px) {
+  @media (max-width: 1200px) {
     flex-direction:row;
     flex-wrap:wrap;
     webkit-justify-content:none;
@@ -35,7 +35,7 @@ const Div1 = styled.div`
     flex-wrap:wrap;
     align-items:center;
     justify-content:center;
-   @media (max-width: 968px) {
+   @media (max-width: 1200px) {
     flex-direction:row!important;
 
    }
