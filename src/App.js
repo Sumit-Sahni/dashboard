@@ -7,9 +7,6 @@ const Dashboard = styled.div`
 
 
 `
-
-
-
 function App() {
   return (
       <Dashboard className='container-fluid p-5'>

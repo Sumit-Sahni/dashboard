@@ -66,7 +66,7 @@ const Nav = () => {
                  <Icon><MdOutlineNotifications /><h6>Icon</h6></Icon>
              </Div1>
              <div>
-             <Icon><MdLogout /><h6>Logout</h6></Icon>
+             <Icon><MdLogout/><h6>Logout</h6></Icon>
               
              </div>
        </Main>
