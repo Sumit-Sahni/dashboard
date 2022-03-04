@@ -14,11 +14,12 @@ const Main  = styled.div`
   flex-wrap:wrap;
   justify-content:space-between;
   align-items:center;
-//   border:1px solid black;
   height:90vh;
   opacity:0.5;
   width:auto;
-  height:80vh;
+  height:100vh;
+  background: #FFFFFF 0% 0% no-repeat padding-box;
+  box-shadow: 0px 3px 26px #00000017;
 
   @media (max-width: 1200px) {
     flex-direction:row;

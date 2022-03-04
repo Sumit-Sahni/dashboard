@@ -1,6 +1,6 @@
 import React from "react";
 import styled from "styled-components";
-import sumit from "./sumit.jpg";
+import sumit from "./Images/sumit.jpg";
 
 const Mian = styled.div`
    padding:1rem;
@@ -47,7 +47,7 @@ const Dashead = () => {
     return(
    <Mian className="">
        <Row className="row">
-              <Column className="col-lg-12 col-12 border border-black ">
+              <Column className="col-lg-12 col-12  ">
                 <div>
                     <h1>Dashboard</h1>
                     <p>Welcome back, Andrew</p>
